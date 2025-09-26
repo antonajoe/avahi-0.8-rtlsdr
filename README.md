@@ -2,7 +2,7 @@
 
 Purpose: To build Avahi for Openwrt with an entry added to support an rtl_tcp server.
 
-Prerequisite's/Enviironment
+#Prerequisite's/Environment
 
 This solution was created on Ubuntu Linux 22 LTS, 
 and creates the packages for TP-Link's Archer C7 v2,
@@ -16,6 +16,7 @@ And, in general, most of what is done here comes directly from the OpenWRT Devel
 
 found here: https://openwrt.org/docs/guide-developer/helloworld/chapter1 
 
+# Process
 
 On Ubuntu, run the following to install necessary OS tools:
 
