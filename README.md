@@ -1,8 +1,10 @@
 # avahi-0.8-rtlsdr
 
-Purpose: To build Avahi for Openwrt with an entry added to support an rtl_tcp server.
+# Purpose: 
 
-#Prerequisite's/Environment
+To build Avahi for Openwrt with an entry added to support an rtl_tcp server.
+
+# Prerequisite's/Environment
 
 This solution was created on Ubuntu Linux 22 LTS, 
 and creates the packages for TP-Link's Archer C7 v2,
