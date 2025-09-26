@@ -170,6 +170,7 @@ service avahi-daemon status
 if it says 'running' you're all set. 
 
 ### TODO ###
+(add steps for adding a firewall rule and testing)
 
 Firewall config:
 
