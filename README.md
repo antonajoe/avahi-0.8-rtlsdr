@@ -1,20 +1,20 @@
 # avahi-0.8-rtlsdr
 
-# Purpose: To build Avahi for Openwrt with an entry added to support an rtl_tcp server.
+Purpose: To build Avahi for Openwrt with an entry added to support an rtl_tcp server.
 
-# Prerequisite's/Enviironment
-#
-# This solution was created on Ubuntu Linux 22 LTS, 
-# and creates the packages for TP-Link's Archer C7 v2,
-# running OpenWRT v23.05.3. It has been successfully tested for gl-ar300m wth v23.05.3 also.   
-#
-# it has not been tested or tried on any other OSes or routers  
-#
-# See https://openwrt.org/docs/guide-developer/toolchain/install-buildsystem for other OS setups.
-#
-# And, in general, most of what is done here comes directly from the OpenWRT Developer's guide tutorial,
-#
-# found here: https://openwrt.org/docs/guide-developer/helloworld/chapter1 
+Prerequisite's/Enviironment
+
+This solution was created on Ubuntu Linux 22 LTS, 
+and creates the packages for TP-Link's Archer C7 v2,
+running OpenWRT v23.05.3. It has been successfully tested for gl-ar300m wth v23.05.3 also.   
+
+it has not been tested or tried on any other OSes or routers  
+
+See https://openwrt.org/docs/guide-developer/toolchain/install-buildsystem for other OS setups.
+
+And, in general, most of what is done here comes directly from the OpenWRT Developer's guide tutorial,
+
+found here: https://openwrt.org/docs/guide-developer/helloworld/chapter1 
 
 
 On Ubuntu, run the following to install necessary OS tools:
